@@ -6,7 +6,7 @@ var testModul=function(){
 module.exports=testModul;
 
 function sayHello(){
-    console.log("xin chào ")
+    console.log("xin chào  ")
 }
 sayHello()
 //first -class function gọi 1 mehtod khác trong 1 class
