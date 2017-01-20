@@ -1,0 +1,19 @@
+<html>
+   <body>
+     <!--bên server-->
+      <!--app.get('/process_get', function (req, res) {
+   // Prepare output in JSON format
+   response = {
+      first_name:req.query.first_name,
+      last_name:req.query.last_name
+   };
+   console.log(response);
+   res.end(JSON.stringify(response));
+})-->
+      <form action = "http://192.168.1.111:777/process_get" method = "GET">
+         First Name: <input type = "text" name = "first_name">  <br>
+         Last Name: <input type = "text" name = "last_name">
+         <input type = "submit" value = "Submit">
+      </form>
+   </body>
+</html>
