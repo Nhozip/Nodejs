@@ -9,8 +9,8 @@
     "inter_setting_new": "ca-app-pub-3399710561924220/1211451882",
     "banner_main_new": "ca-app-pub-3399710561924220/7585288548",
     "inter_main_new": "ca-app-pub-3399710561924220/6272206877",
-    "onlyAdmod": true,
-    "onlyFB": false,
+    "onlyAdmod": false,
+    "onlyFB": true,
     "fb_banner": "722924574942629_722926918275728",
     "fb_inter": "722924574942629_722925721609181"
   },
