@@ -1,18 +1,18 @@
 {
   "ads": {
-    "id_app": "5e96d0f535810c06f487c01f",
-    "banner_setting": "ca-app-pub-3012698338439910/7504190273",
-    "inter_setting": "ca-app-pub-3012698338439910/9800262694",
-    "banner_main": "ca-app-pub-3012698338439910/7504190273",
-    "inter_main": "ca-app-pub-3012698338439910/9800262694",
-    "banner_setting_new": "ca-app-pub-3399710561924220/6262073364",
-    "inter_setting_new": "ca-app-pub-3399710561924220/1211451882",
-    "banner_main_new": "ca-app-pub-3399710561924220/7585288548",
-    "inter_main_new": "ca-app-pub-3399710561924220/6272206877",
-    "onlyAdmod": false,
-    "onlyFB": true,
-    "fb_banner": "722924574942629_722926918275728",
-    "fb_inter": "722924574942629_722925721609181"
+    "id_app": "5eaba20a35810c06f487c02a",
+    "banner_setting": "ca-app-pub-3012698338439910/8004910815",
+    "inter_setting": "ca-app-pub-3012698338439910/9863474315",
+    "banner_main": "ca-app-pub-3012698338439910/3874094117",
+    "inter_main": "ca-app-pub-3012698338439910/1247930778",
+    "banner_setting_new": "ca-app-pub-3399710561924220/1527254459",
+    "inter_setting_new": "ca-app-pub-3399710561924220/7481346767",
+    "banner_main_new": "ca-app-pub-3399710561924220/6168265092",
+    "inter_main_new": "ca-app-pub-3399710561924220/6588009442",
+    "onlyAdmod": true,
+    "onlyFB": false,
+    "fb_banner": "330875504753278_330876658086496",
+    "fb_inter": "330875504753278_330876251419870"
   },
   "app_exists": {
     "id": "com.king.candycrushsaga",
