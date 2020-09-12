@@ -1,6 +1,7 @@
 {
   "ads": {
-    "id_app": "",
+    "id_app": "id_app",
+    "flury_id":"flury_id",
     "banner_setting": "ca-app-pub-/2672936624",
     "inter_setting": "ca-app-pub-/",
     "banner_main": "ca-app-pub-/9343593663",
