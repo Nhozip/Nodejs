@@ -20,7 +20,8 @@
     "is_exists": true,
     "is_show_more": true,
     "isLoading":false,
-    "isShowAds":true
+    "isShowAds":true,
+    "onlyAdsMe":true
   },
   "apps": [
     {
