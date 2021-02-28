@@ -9,10 +9,10 @@
     "inter_setting": "ca-app-pub-3012698338439910/9800262694",
     "banner_main": "ca-app-pub-3012698338439910/7504190273",
     "inter_main": "ca-app-pub-3012698338439910/9800262694",
-    "onlyAdmod": true,
-    "onlyFB": false,
-    "fb_banner": "722924574942629_722926918275728",
-    "fb_inter": "722924574942629_722925721609181"
+    "onlyAdmod": false,
+    "onlyFB": true,
+    "fb_banner": "722924574942629_871006810134404",
+    "fb_inter": "722924574942629_871007016801050"
   },
   "app_exists": {
     "id": "com.king.candycrushsaga",
