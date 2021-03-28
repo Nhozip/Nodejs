@@ -30,6 +30,7 @@
     "isLoading":false,
     "isShowAds":true,
     "onlyAdsMe":true,
+    "rate":true,
     "bg":"https://play-lh.googleusercontent.com/8gaz8rbPJ7hCtl-kU1mQwm04-awVv5TDSJjEfmEKRDp1hipKn2nlRmLKEmSDib7uqCk=w1440-h620-rw"
   },
   "apps": [
