@@ -31,7 +31,10 @@
     "isShowAds":true,
     "onlyAdsMe":false,
     "rate":true,
-    "bg":"https://play-lh.googleusercontent.com/8gaz8rbPJ7hCtl-kU1mQwm04-awVv5TDSJjEfmEKRDp1hipKn2nlRmLKEmSDib7uqCk=w1440-h620-rw"
+    "bg":"https://play-lh.googleusercontent.com/8gaz8rbPJ7hCtl-kU1mQwm04-awVv5TDSJjEfmEKRDp1hipKn2nlRmLKEmSDib7uqCk=w1440-h620-rw",
+    "in_app:true,
+    "in_app_close":true,
+    "bg_inapp":""
   },
   "apps": [
     {
