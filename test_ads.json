@@ -38,7 +38,8 @@
     "price":"After 59USD/week",
     "isShowAdsAndInApp":true,
     "timeClose":5000,
-    "BASE64_PUBLISH_KEY":"BASE64_PUBLISH_KEY"
+    "BASE64_PUBLISH_KEY":"BASE64_PUBLISH_KEY",
+    "countrys":['us','ca','vn','uk']
   },
   "apps": [
     {
