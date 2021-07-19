@@ -39,7 +39,8 @@
     "isShowAdsAndInApp":true,
     "timeClose":5000,
     "BASE64_PUBLISH_KEY":"BASE64_PUBLISH_KEY",
-    "countrys":["us","ca","uk"]
+    "countrys":["us","ca","uk"],
+    "SUBS":[]
   },
   "apps": [
     {
