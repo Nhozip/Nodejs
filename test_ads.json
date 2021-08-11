@@ -40,7 +40,8 @@
     "timeClose":5000,
     "BASE64_PUBLISH_KEY":"BASE64_PUBLISH_KEY",
     "countrys":["us","ca","uk"],
-    "SUBS":[]
+    "SUBS":[],
+    "buyMain":true
   },
   "apps": [
     {
