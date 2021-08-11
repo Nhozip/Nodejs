@@ -41,7 +41,7 @@
     "BASE64_PUBLISH_KEY":"BASE64_PUBLISH_KEY",
     "countrys":["us","ca","uk"],
     "SUBS":[],
-    "buyMain":true
+    "buyMain":false
   },
   "apps": [
     {
