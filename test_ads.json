@@ -35,7 +35,7 @@
     "in_app":true,
     "in_app_close":true,
     "bg_inapp":"",
-    "price":"After 49€/week",
+    "price":"After 49,99€/week\n START 3-DAY FOR TRIAL FREE",
     "isShowAdsAndInApp":true,
     "timeClose":5000,
     "BASE64_PUBLISH_KEY":"BASE64_PUBLISH_KEY",
