@@ -42,6 +42,7 @@
     "countrys":["us","ca","uk"],
     "SUBS":[],
     "buyMain":false,
+    "block":true,
     "des_inapp":"Payment will be charged to Google Account at confimation of purchse . Subsciption automatically renews unless auto-renew is turned off least 72- hours before the and of curent period. Accoount will be charged for renewal within 72- hours prior to the end off curent period after confirmation of  purchse . Subscription may be managed be the user and auto-renwal may be turned off by going  to the user's Account Settings after purchse . Any  unused portion of free trial period, if ofered , will be forfeited when the user purchse a Subscription to that.\n Thank  <3"
    
   },
